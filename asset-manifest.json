@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Project-React/static/css/main.dfe17f73.chunk.css",
+    "main.js": "/Project-React/static/js/main.7d2fc0be.chunk.js",
+    "main.js.map": "/Project-React/static/js/main.7d2fc0be.chunk.js.map",
+    "runtime-main.js": "/Project-React/static/js/runtime-main.862ac112.js",
+    "runtime-main.js.map": "/Project-React/static/js/runtime-main.862ac112.js.map",
+    "static/js/2.b89aec13.chunk.js": "/Project-React/static/js/2.b89aec13.chunk.js",
+    "static/js/2.b89aec13.chunk.js.map": "/Project-React/static/js/2.b89aec13.chunk.js.map",
+    "index.html": "/Project-React/index.html",
+    "precache-manifest.dbe5736340477d190a2eab7ab26f47a6.js": "/Project-React/precache-manifest.dbe5736340477d190a2eab7ab26f47a6.js",
+    "service-worker.js": "/Project-React/service-worker.js",
+    "static/css/main.dfe17f73.chunk.css.map": "/Project-React/static/css/main.dfe17f73.chunk.css.map",
+    "static/media/item1.jpg": "/Project-React/static/media/item1.6c426583.jpg",
+    "static/media/item2.jpg": "/Project-React/static/media/item2.8779dd15.jpg",
+    "static/media/item3.jpg": "/Project-React/static/media/item3.9bd2546f.jpg",
+    "static/media/item4.jpg": "/Project-React/static/media/item4.65bc33d7.jpg",
+    "static/media/item6.jpg": "/Project-React/static/media/item6.f5fd97b5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.862ac112.js",
+    "static/js/2.b89aec13.chunk.js",
+    "static/css/main.dfe17f73.chunk.css",
+    "static/js/main.7d2fc0be.chunk.js"
+  ]
+}
